@@ -1,5 +1,17 @@
-- Criei um dashboard utilizando o SQL, gerando o resultado abaixo:
+# Sales Analysis with SQL :bar_chart:
 
-https://docs.google.com/presentation/d/1xfmLyziEQDweneO9rFCy2xWOq1XeWheTeegY62Um2JI/edit#slide=id.g1e2449bfb54_0_39 
+## Project Overview
+Performed sales data analysis using SQL, incorporating functions such as join, group by, having, order by, and arithmetic operators. Created a dashboard showcasing key sales metrics.
 
-- Neste trabalho pude utilizar diversas funções do SQL, tais como o join, group by, having, order by, AVG etc. 
+## SQL Functions and Techniques Used :floppy_disk:
+- JOIN
+- GROUP BY
+- HAVING
+- ORDER BY
+- Arithmetic Operators
+
+## Dashboard Creation :chart_with_upwards_trend:
+
+https://docs.google.com/presentation/d/1xfmLyziEQDweneO9rFCy2xWOq1XeWheTeegY62Um2JI/edit#slide=id.g1e189a305be_0_26 
+
+
